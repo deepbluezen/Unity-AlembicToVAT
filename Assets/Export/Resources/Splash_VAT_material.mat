@@ -30,8 +30,8 @@ Material:
     m_Floats:
     - _Framecount: 50
     - _Metalness: 0
-    - _Roughness: 0
-    - _Timeposition: 0.54
+    - _Roughness: 0.42
+    - _Timeposition: 0.43
     - __dirty: 1
     m_Colors:
-    - _Color: {r: 1, g: 0.5773492, b: 0, a: 0}
+    - _Color: {r: 0.15129942, g: 0.55490637, b: 0.9433962, a: 0}

@@ -31,7 +31,7 @@ Material:
     - _Framecount: 140
     - _Metalness: 0
     - _Roughness: 0
-    - _Timeposition: 0.302
+    - _Timeposition: 0.16
     - __dirty: 1
     m_Colors:
     - _Color: {r: 1, g: 0.5773492, b: 0, a: 0}
